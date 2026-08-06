@@ -1,0 +1,7 @@
+{
+  "ucp": {"version": "2026-04-08", "capabilities": ["dev.ucp.shopping.catalog.search","dev.ucp.shopping.catalog.lookup"]},
+  "version": "2026-04-08",
+  "provides": ["dev.ucp.shopping.catalog.search","dev.ucp.shopping.catalog.lookup"],
+  "requires": ["dev.ucp.shopping.catalog.search"],
+  "scopes": ["dev.ucp.shopping.catalog.search","dev.ucp.shopping.catalog.lookup"]
+}
