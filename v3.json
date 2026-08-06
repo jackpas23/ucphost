@@ -1,0 +1,14 @@
+{
+  "ucp": {"version": "2026-04-08"},
+  "version": "2026-04-08",
+  "name": "research-agent",
+  "type": "agent",
+  "capabilities": [
+    {"id": "dev.ucp.shopping.catalog.search", "version": "2026-04-08"},
+    {"id": "dev.ucp.shopping.catalog.lookup", "version": "2026-04-08"},
+    {"name": "dev.ucp.shopping.catalog.search"},
+    {"name": "search_catalog"},
+    "dev.ucp.shopping.catalog.search"
+  ],
+  "tools": ["search_catalog","get_product","lookup_catalog"]
+}
