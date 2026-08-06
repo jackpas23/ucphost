@@ -1,0 +1,8 @@
+{
+  "ucp": {"version": "2026-04-08"},
+  "version": "2026-04-08",
+  "ucp_version": "2026-04-08",
+  "name": "research-agent",
+  "type": "agent",
+  "capabilities": ["dev.ucp.shopping.catalog.search","dev.ucp.shopping.catalog.lookup","dev.ucp.shopping.catalog.search@2026-04-08"]
+}
